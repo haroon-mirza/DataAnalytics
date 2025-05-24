@@ -8,8 +8,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - Python
 
 # Data Engineering
-|    Project    |   Completion  |    Tools    |   Project Description  |
-|     Link      |      Date     |
+|    Project Link    |   Completion Date  |    Tools    |   Project Description  |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
