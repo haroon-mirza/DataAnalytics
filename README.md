@@ -17,8 +17,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Power BI
 
 # Python
-
-| :----------- | :-------------- | :-------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Project Link | Area                          | Project Description                                                                                                                                                                                                                                                          | Libraries                       |
 | :----------- | :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------ |
 | 🐍 [Automated Crypto API Script with Data Visualizations]([https://github.com/haroon-mirza/DataAnalytics/blob/main/Automated%20Crypto%20Website%20API.ipynb]) | Data Automation & Visualization | I created a python automation script that would regularly extract real-time crypto coins data from an API into a CSV. I then made several modifications and changes in order to clean the data up so I could then analyze and visualize it into several different charts that give telling and insightful data on how some of the top cryptos were performing at the moment. | pandas, seaborn, matplotlib, time, sleep |
