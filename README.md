@@ -13,6 +13,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🎮 [Game Deals](https://github.com/haroon-mirza/Game-Deals-Data-Integrator-ETL-Pipeline-Visualization) | November 2023        | Python, Prefect, Docker, Postgres, Power BI  | An ETL pipeline that calls the Cheapshark API, transforms data into CSV, and uploads into a Postgres database. Database is then connected to Power BI for further visualizations. |
 
 # SQL
+| Project Link                                                               | Area of Analysis      | Project Description                                                                                                                                                                                                                            |
+| :------------------------------------------------------------------------- | :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🗄️ [School Records Data Model](https://github.com/haroon-mirza/School-Records-Database-Model) | Data Modeling & ETL | Designed and implemented a relational data model for school records using PostgreSQL. Developed Python scripts with `psycopg2` and `pandas` to create the database schema and load data from multiple CSV sources regarding student majors, employment, and graduate statistics. |
 
 # Python
 | Project Link | Area                          | Project Description                                                                                                                                                                                                                                                          | Libraries                       |
