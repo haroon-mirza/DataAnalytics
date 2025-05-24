@@ -4,8 +4,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # 📚 Table of Contents
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
-- [Power BI](#power-bi)
 - [Python](#python)
+- [Power BI](#power-bi)
+
 
 # Data Engineering
 | Project Link | Completion Date | Tools                                                           | Project Description                                                                                                                                                                                             |
